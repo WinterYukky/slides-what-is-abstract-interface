@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.30.0",
+    "@slidev/theme-default": "^0.21.2",
+    "@slidev/theme-seriph": "*"
+  },
+  "name": "what-is-abstract-and-interface",
+  "devDependencies": {
+    "@iconify-json/mdi": "^1.1.9"
+  }
+}
